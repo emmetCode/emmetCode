@@ -6,10 +6,10 @@
 
 *Building scalable systems, clean APIs, and production-grade web applications.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/acharyaaganesh)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://acharyaaganesh.com.np)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:user.acganesh@gmail.com)
 
 </div>
 
@@ -100,10 +100,10 @@ I'm open to collaboration, technical discussions, and new opportunities.
 
 | Platform | Link |
 |---|---|
-| GitHub | [@your-username](https://github.com/emmetCode) |
-| LinkedIn | [linkedin.com/in/your-username](https://linkedin.com/in/acharyaaganesh) |
+| GitHub | [emmetCode](https://github.com/emmetCode) |
+| LinkedIn | [linkedin.com/in/acharyaaganesh](https://linkedin.com/in/acharyaaganesh) |
 | Email | user.acganesh@gmail.com |
-| Portfolio | [yourportfolio.dev](https://acharyaaganesh.com.np) |
+| Portfolio | [acharyaaganesh.com.np](https://acharyaaganesh.com.np) |
 
 ---
 
